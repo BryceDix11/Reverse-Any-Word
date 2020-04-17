@@ -1,2 +1,2 @@
 # Reverse-Any-Word
-I used a while loop to run through the user input and output the word backwards.
+The program will ask you to input any word you want, and the program will output that word backwards.
